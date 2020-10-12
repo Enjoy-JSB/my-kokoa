@@ -1,0 +1,9 @@
+{
+  "name": "kakao-clone",
+  "version": "1.0.0",
+  "description": "My Own Kakao Clone",
+  "main": "index.js",
+  "repository": "https://github.com/Enjoy-JSB/my-kokoa.git",
+  "author": "Jinsu <jinsu350@gmail.com>",
+  "license": "MIT"
+}
